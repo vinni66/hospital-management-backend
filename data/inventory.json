@@ -1,0 +1,23 @@
+{
+    "6dead766-a774-47f5-ae06-fda8f57caaf7": {
+        "id": "6dead766-a774-47f5-ae06-fda8f57caaf7",
+        "name": "paracetomol 600 mg",
+        "quantity": 100,
+        "category": "Medicine",
+        "last_updated": "2025-10-13 02:14:34.918714"
+    },
+    "bdbe8b35-e98f-438f-96dc-f12e6792e153": {
+        "id": "bdbe8b35-e98f-438f-96dc-f12e6792e153",
+        "name": "injection",
+        "quantity": 20,
+        "category": "Equipment",
+        "last_updated": "2025-10-13 02:14:56.662497"
+    },
+    "f175bf04-0828-494e-96d1-d8c9595f646f": {
+        "id": "f175bf04-0828-494e-96d1-d8c9595f646f",
+        "name": "hand glouse",
+        "quantity": 30,
+        "category": "Medicine",
+        "last_updated": "2025-10-13 02:15:13.733127"
+    }
+}

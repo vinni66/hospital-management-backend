@@ -1,0 +1,11 @@
+
+{
+  "TEST001": { "name": "Complete Blood Count (CBC)", "fee": 150.00 },
+  "TEST002": { "name": "Basic Metabolic Panel (BMP)", "fee": 250.00 },
+  "TEST003": { "name": "Lipid Panel", "fee": 180.00 },
+  "TEST004": { "name": "Thyroid-Stimulating Hormone (TSH)", "fee": 200.00 },
+  "TEST005": { "name": "Hemoglobin A1c (HbA1c)", "fee": 170.00 },
+  "TEST006": { "name": "Urinalysis", "fee": 100.00 },
+  "TEST007": { "name": "Vitamin D, 25-Hydroxy", "fee": 300.00 },
+  "TEST008": { "name": "COVID-19 PCR Test", "fee": 500.00 }
+}

@@ -1,0 +1,65 @@
+{
+    "admin": {
+        "id": "ed209ddc-3470-4f43-bb3b-8631a860f059",
+        "username": "admin",
+        "password": "admin123",
+        "role": "superadmin",
+        "created_at": "2025-10-07 11:20:51.959615",
+        "token": "0f3626d5-019d-48d0-9fc0-56c466a9e8c8"
+    },
+    "anitha": {
+        "id": "1c23fb7e-df93-4a58-b116-4b3c1b735a09",
+        "username": "anitha",
+        "password": "Ani@123",
+        "role": "doctor",
+        "created_at": "2025-10-07 19:34:28.541265",
+        "token": null
+    },
+    "vinay": {
+        "id": "c819322d-1d6b-4efb-9c25-c238dce1a8ee",
+        "username": "vinay",
+        "password": "1234",
+        "role": "doctor",
+        "created_at": "2025-10-07 19:35:28.094392",
+        "token": "b0471723-b492-4112-bb26-629c16b47ec8"
+    },
+    "spoo": {
+        "id": "3efb72ee-c5e1-4ffb-a460-00e5af25e49d",
+        "username": "spoo",
+        "password": "1234",
+        "role": "reception",
+        "created_at": "2025-10-07 22:07:27.464787",
+        "token": "7910241f-589c-4e23-8418-7fdacafe75e3"
+    },
+    "lalith": {
+        "id": "b3b6a93b-9259-4778-9157-daaef7fe9698",
+        "username": "lalith",
+        "password": "1234",
+        "role": "patient",
+        "created_at": "2025-10-09 23:24:12.114152",
+        "token": "5faa8a36-b7b2-4294-966f-e55534625db5"
+    },
+    "321": {
+        "id": "9c7d3dd2-b25a-41b8-ad61-d7e9262b3510",
+        "username": "321",
+        "password": "1234",
+        "role": "patient",
+        "created_at": "2025-10-10 21:07:33.601277",
+        "token": "fc04110b-b61e-43ad-8ebd-659b3330cccd"
+    },
+    "nandini": {
+        "id": "4b219e49-dea7-4eba-8b2c-3c591d1ab3ec",
+        "username": "nandini",
+        "password": "0944",
+        "role": "doctor",
+        "created_at": "2025-10-11 17:02:36.996705",
+        "token": "d8d0874c-6355-4379-8932-ad88c91e356b"
+    },
+    "praveen09": {
+        "id": "66b94098-009a-4ce0-a227-6f34b1a878b0",
+        "username": "praveen09",
+        "password": "pvn@1",
+        "role": "patient",
+        "token": "21d10553-f019-46b3-a22d-f44fbb8d2c35"
+    }
+}

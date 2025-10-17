@@ -1,0 +1,88 @@
+{
+    "5baf8390-0335-43d4-b505-50e8008e85a3": {
+        "id": "5baf8390-0335-43d4-b505-50e8008e85a3",
+        "name": "raju",
+        "age": "10",
+        "gender": "Male",
+        "fees": "200",
+        "username": "raju",
+        "password": "raju123",
+        "created_at": "2025-10-09 22:57:38.867761",
+        "records": []
+    },
+    "534dc59e-e1be-4038-aff9-20c10b850d91": {
+        "id": "534dc59e-e1be-4038-aff9-20c10b850d91",
+        "name": "vijay",
+        "age": "10",
+        "gender": "Male",
+        "fees": "150",
+        "username": "vijay",
+        "password": "vijay123",
+        "created_at": "2025-10-09 23:19:37.361501",
+        "records": []
+    },
+    "b3b6a93b-9259-4778-9157-daaef7fe9698": {
+        "id": "b3b6a93b-9259-4778-9157-daaef7fe9698",
+        "name": "lalith",
+        "age": "88",
+        "gender": "Male",
+        "fees": "100",
+        "username": "lalith",
+        "password": "1234",
+        "created_at": "2025-10-09 23:24:12.114152",
+        "records": [
+            {
+                "doctor": "vinay",
+                "record": "hello",
+                "timestamp": "2025-10-10 18:51:45.517618"
+            },
+            {
+                "doctor": "vinay",
+                "record": "sai",
+                "timestamp": "2025-10-11 17:05:55.155719"
+            }
+        ]
+    },
+    "2bfaacba-0503-470f-a327-6b112420441e": {
+        "id": "2bfaacba-0503-470f-a327-6b112420441e",
+        "name": "gm",
+        "age": "12",
+        "gender": "Male",
+        "fees": "500",
+        "username": "gms",
+        "password": "0944",
+        "doctor": "anitha",
+        "created_at": "2025-10-10 00:00:46.727157",
+        "records": []
+    },
+    "9c7d3dd2-b25a-41b8-ad61-d7e9262b3510": {
+        "id": "9c7d3dd2-b25a-41b8-ad61-d7e9262b3510",
+        "name": "spoo",
+        "age": "21",
+        "gender": "Female",
+        "fees": "100",
+        "username": "321",
+        "password": "1234",
+        "doctor": "anitha",
+        "created_at": "2025-10-10 21:07:33.601277",
+        "records": []
+    },
+    "66b94098-009a-4ce0-a227-6f34b1a878b0": {
+        "id": "66b94098-009a-4ce0-a227-6f34b1a878b0",
+        "name": "praveen",
+        "age": 22,
+        "gender": "Male",
+        "fees": 500.0,
+        "username": "praveen09",
+        "password": "pvn@1",
+        "doctor": "nandini",
+        "created_at": "2025-10-11 20:28:20.359639",
+        "records": [
+            {
+                "doctor": "nandini",
+                "record": "cancer",
+                "timestamp": "2025-10-11 20:29:01.335214"
+            }
+        ]
+    }
+}

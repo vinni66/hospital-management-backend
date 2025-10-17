@@ -1,0 +1,159 @@
+{
+    "a5f6cfba-3afc-4767-b762-579f02657991": {
+        "id": "a5f6cfba-3afc-4767-b762-579f02657991",
+        "patient_id": "b3b6a93b-9259-4778-9157-daaef7fe9698",
+        "amount": "100",
+        "description": "saithana",
+        "status": "Paid",
+        "created_at": "2025-10-11 17:03:30.922813",
+        "created_by": "4b219e49-dea7-4eba-8b2c-3c591d1ab3ec"
+    },
+    "ee67ce16-2314-4d92-8668-b7391bb6a78d": {
+        "id": "ee67ce16-2314-4d92-8668-b7391bb6a78d",
+        "patient_id": "66b94098-009a-4ce0-a227-6f34b1a878b0",
+        "amount": "15000",
+        "description": "mri scan of body",
+        "status": "Paid",
+        "created_at": "2025-10-11 20:36:52.438268",
+        "created_by": "4b219e49-dea7-4eba-8b2c-3c591d1ab3ec"
+    },
+    "d5c02991-328a-412d-9f4b-880a15afd9e9": {
+        "id": "d5c02991-328a-412d-9f4b-880a15afd9e9",
+        "patient_id": "93c1dc05-61b7-4c05-a214-9997446b004b",
+        "amount": 500.0,
+        "description": "Doctor Consultation & Prescription",
+        "status": "Paid",
+        "created_at": "2025-10-13 02:29:58.971868",
+        "created_by": "5f87027e-e208-4a18-9e74-e8cef8dc8ccc"
+    },
+    "fa0a164c-19b2-426b-8516-7a285555eb6f": {
+        "id": "fa0a164c-19b2-426b-8516-7a285555eb6f",
+        "patient_id": "427507b2-fdef-4a63-b7c9-52122f009a5b",
+        "amount": 100.0,
+        "description": "Doctor Consultation & Prescription",
+        "status": "Paid",
+        "created_at": "2025-10-13 02:36:11.540680",
+        "created_by": "f6809310-184f-4ddb-9a93-c10169334221",
+        "prescription_id": "81a40fe3-a46e-4453-b60f-ebe1c60ebe92"
+    },
+    "1b5e446c-a5b3-491e-9145-b6f973d874b6": {
+        "id": "1b5e446c-a5b3-491e-9145-b6f973d874b6",
+        "patient_id": "93c1dc05-61b7-4c05-a214-9997446b004b",
+        "amount": 500.0,
+        "description": "Doctor Consultation & Prescription",
+        "status": "Paid",
+        "created_at": "2025-10-13 03:07:40.176605",
+        "created_by": "f6809310-184f-4ddb-9a93-c10169334221",
+        "prescription_id": "ef45ab4f-ab4c-4afd-939b-427923e7fe59"
+    },
+    "3da0639e-4e6b-409c-8bf4-cb0c9584da7f": {
+        "id": "3da0639e-4e6b-409c-8bf4-cb0c9584da7f",
+        "patient_id": "93c1dc05-61b7-4c05-a214-9997446b004b",
+        "amount": 1000.0,
+        "description": "Consultation with Dr. spoorthi s",
+        "status": "Paid",
+        "created_at": "2025-10-13 03:13:58.315458",
+        "created_by": "2e069e36-d48d-4d71-a2c9-a7b930aab577",
+        "appointment_id": "de6e9c8e-1816-41dd-8a3c-65a30a2594c7"
+    },
+    "7685c632-d253-4c40-a088-6b03f9eb1689": {
+        "id": "7685c632-d253-4c40-a088-6b03f9eb1689",
+        "patient_id": "93c1dc05-61b7-4c05-a214-9997446b004b",
+        "amount": 1000.0,
+        "description": "Consultation with Dr. spoorthi s",
+        "status": "Paid",
+        "created_at": "2025-10-13 04:01:12.043404",
+        "created_by": "93c1dc05-61b7-4c05-a214-9997446b004b",
+        "appointment_id": "9857f126-d381-4420-a81c-6425a0c7b104"
+    },
+    "8c172324-1ea2-448a-bf33-c3537941ea1b": {
+        "id": "8c172324-1ea2-448a-bf33-c3537941ea1b",
+        "patient_id": "93c1dc05-61b7-4c05-a214-9997446b004b",
+        "amount": 1000.0,
+        "description": "Consultation with Dr. spoorthi s",
+        "status": "Paid",
+        "created_at": "2025-10-13 04:09:29.288454",
+        "created_by": "93c1dc05-61b7-4c05-a214-9997446b004b",
+        "appointment_id": "cbaa5eba-eecb-4342-a39b-41c945ea29ac"
+    },
+    "b9ed6658-71e4-4ce1-b98f-9197ebb2e99c": {
+        "id": "b9ed6658-71e4-4ce1-b98f-9197ebb2e99c",
+        "patient_id": "93c1dc05-61b7-4c05-a214-9997446b004b",
+        "amount": 250,
+        "description": "Consultation with Dr. prathiksha",
+        "status": "Paid",
+        "created_at": "2025-10-13 11:26:56.198638",
+        "created_by": "2e069e36-d48d-4d71-a2c9-a7b930aab577",
+        "appointment_id": "ee8cf2e2-3e7e-4cee-a203-32671da30b3d"
+    },
+    "85ab2e76-2eea-47ee-b171-3ad7ac3b39fd": {
+        "id": "85ab2e76-2eea-47ee-b171-3ad7ac3b39fd",
+        "patient_id": "93c1dc05-61b7-4c05-a214-9997446b004b",
+        "amount": 500.0,
+        "description": "Doctor Consultation & Prescription",
+        "status": "Paid",
+        "created_at": "2025-10-13 11:38:32.037236",
+        "created_by": "5f87027e-e208-4a18-9e74-e8cef8dc8ccc",
+        "prescription_id": "b3d9bf39-3867-4369-855f-1e95b1098ebf"
+    },
+    "239d5424-b719-4ce1-be49-67f26a66c6f7": {
+        "id": "239d5424-b719-4ce1-be49-67f26a66c6f7",
+        "patient_id": "115112a4-493b-49b8-8b3e-9ab7a0beea5a",
+        "amount": 250,
+        "description": "Consultation with Dr. prathiksha",
+        "status": "Paid",
+        "created_at": "2025-10-13 13:29:59.966861",
+        "created_by": "2e069e36-d48d-4d71-a2c9-a7b930aab577",
+        "appointment_id": "47f627a3-9463-4947-85ba-6171ced1fa74"
+    },
+    "600e72f4-3d9d-44a7-9221-b35f0fab5658": {
+        "id": "600e72f4-3d9d-44a7-9221-b35f0fab5658",
+        "patient_id": "427507b2-fdef-4a63-b7c9-52122f009a5b",
+        "amount": 1000.0,
+        "description": "Consultation with Dr. spoorthi s",
+        "status": "Paid",
+        "created_at": "2025-10-16 22:07:27.489652",
+        "created_by": "2e069e36-d48d-4d71-a2c9-a7b930aab577",
+        "appointment_id": "f3af1e30-f2dd-45f9-8c48-31f9063012bf"
+    },
+    "e5f8219c-4da9-46fa-a0bb-d2e94dc2697a": {
+        "id": "e5f8219c-4da9-46fa-a0bb-d2e94dc2697a",
+        "patient_id": "427507b2-fdef-4a63-b7c9-52122f009a5b",
+        "amount": 100.0,
+        "description": "Doctor Consultation & Prescription",
+        "status": "Unpaid",
+        "created_at": "2025-10-16 22:09:49.769132",
+        "created_by": "f6809310-184f-4ddb-9a93-c10169334221",
+        "prescription_id": "17145ee0-6549-42aa-b82e-72bc80b12d8f"
+    },
+    "4779a65d-bb39-4207-9b74-de8858069b8a": {
+        "id": "4779a65d-bb39-4207-9b74-de8858069b8a",
+        "patient_id": "427507b2-fdef-4a63-b7c9-52122f009a5b",
+        "amount": 100.0,
+        "description": "Doctor Consultation & Prescription",
+        "status": "Paid",
+        "created_at": "2025-10-17 10:31:01.434533",
+        "created_by": "f6809310-184f-4ddb-9a93-c10169334221",
+        "prescription_id": "f161d311-8f9a-41a2-9976-d0b245ef4abf"
+    },
+    "dcd47a8d-3f82-4cdf-bceb-2a96a3b1c345": {
+        "id": "dcd47a8d-3f82-4cdf-bceb-2a96a3b1c345",
+        "patient_id": "427507b2-fdef-4a63-b7c9-52122f009a5b",
+        "amount": 250,
+        "description": "Consultation with Dr. prathiksha",
+        "status": "Paid",
+        "created_at": "2025-10-17 10:36:55.956922",
+        "created_by": "427507b2-fdef-4a63-b7c9-52122f009a5b",
+        "appointment_id": "4f3f096e-72ea-4cf4-9f83-768167b2f04b"
+    },
+    "70f5ac97-9efc-412b-9cc3-3f378b9c0442": {
+        "id": "70f5ac97-9efc-412b-9cc3-3f378b9c0442",
+        "patient_id": "93c1dc05-61b7-4c05-a214-9997446b004b",
+        "amount": 250.0,
+        "description": "Lab Test: Basic Metabolic Panel (BMP)",
+        "status": "Paid",
+        "created_at": "2025-10-17 18:47:02.674530",
+        "created_by": "f6809310-184f-4ddb-9a93-c10169334221",
+        "lab_test_id": "26658e9b-41c4-48fc-9613-097144cd73a9"
+    }
+}

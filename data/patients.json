@@ -1,0 +1,38 @@
+{
+    "93c1dc05-61b7-4c05-a214-9997446b004b": {
+        "id": "93c1dc05-61b7-4c05-a214-9997446b004b",
+        "name": "raju",
+        "age": 32,
+        "gender": "Male",
+        "fees": 500.0,
+        "username": "raju",
+        "password": "$pbkdf2-sha256$29000$xBgDQGgt5VzrnVOqlfJeaw$7gZNEmQRpKsn989WJeEgr.7Bj3BGd7lv3izvbN/2RMM",
+        "doctor": "spoorthi s",
+        "created_at": "2025-10-11 22:08:01.954207",
+        "records": []
+    },
+    "427507b2-fdef-4a63-b7c9-52122f009a5b": {
+        "id": "427507b2-fdef-4a63-b7c9-52122f009a5b",
+        "name": "vijay",
+        "age": 22,
+        "gender": "Male",
+        "fees": 100.0,
+        "username": "vijay",
+        "password": "$pbkdf2-sha256$29000$glBqrVVqzdk7JySktJayNg$75z5wb6ntFJcIfeJXpr8yJaeBetkeowZh7fmEcpRbAk",
+        "doctor": "spoorthi s",
+        "created_at": "2025-10-13 01:45:14.941910",
+        "records": []
+    },
+    "115112a4-493b-49b8-8b3e-9ab7a0beea5a": {
+        "id": "115112a4-493b-49b8-8b3e-9ab7a0beea5a",
+        "name": "ram",
+        "age": 20,
+        "gender": "Male",
+        "fees": 1000.0,
+        "username": "ram",
+        "password": "$pbkdf2-sha256$29000$6X2PsRYipBRCSInRWuudsw$deQ2Y.X47OvLr9WdzGqMg9FLb0TILRQfk0FRvcOZ9KQ",
+        "doctor": "prathiksha",
+        "created_at": "2025-10-13 13:29:33.743668",
+        "records": []
+    }
+}
