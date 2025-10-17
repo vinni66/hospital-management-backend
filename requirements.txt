@@ -4,3 +4,4 @@ Flask-SocketIO
 eventlet
 passlib[bcrypt]
 fpdf2
+gunicorn
