@@ -1,7 +1,7 @@
 Flask
 Flask-Cors
 Flask-SocketIO
-eventlet
 passlib[bcrypt]
-fpdf2
 gunicorn
+eventlet
+fpdf
