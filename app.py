@@ -1,3 +1,6 @@
+import eventlet
+eventlet.monkey_patch()
+
 from flask import Flask, request, jsonify, make_response
 from flask_cors import CORS
 from flask_socketio import SocketIO, emit
@@ -5,6 +8,7 @@ import json, os, uuid, datetime, hashlib
 from functools import wraps
 from passlib.hash import pbkdf2_sha256
 from fpdf import FPDF
+
 
 # ------------------- INITIAL SETUP -------------------
 
